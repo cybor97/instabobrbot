@@ -1,0 +1,4 @@
+bin
+lib
+.env
+.DS_Store

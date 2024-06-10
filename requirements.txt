@@ -1,0 +1,9 @@
+beautifulsoup4
+boto3
+botocore
+instaloader
+python-dotenv
+telegram
+python-telegram-bot
+requests
+urllib3==1.26.15
